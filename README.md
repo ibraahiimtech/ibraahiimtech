@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Ibrahim 👋
 
-<!--
-**ibraahiimtech/Ibraahiimtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cloud Security & DevOps Engineer based in the UK.
 
-Here are some ideas to get you started:
+Current Focus
+- Linux & Bash
+- Networking fundamentals
+- SOC analysis
+- Azure Sentinel / Microsoft Defender
+- KQL
+- DevOps basics
+- GitHub documentation and lab writeups
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Labs & Projects
+- Linux security investigation labs
+- DNS and tcpdump traffic analysis
+- Splunk detection labs
+- Azure Sentinel KQL queries
+- DevSecOps CI/CD security projects
+
+Career Goal
+Cloud Security / DevOps Engineer
